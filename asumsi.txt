@@ -1,0 +1,31 @@
+Anggota Kelompok:
+ Stephanus Nico Budiarso - 2101640952
+ Hendy Juniarto - 2101639534
+ Juan Tanadiraharjo - 2101647731 
+ Laura caroline - 2101643380
+ Garson Avrilio - 2101641293
+
+Lokasi: Jakarta Barat
+
+# Asumsi
+	- Driver gojek yang dimaksud adalah penyedia jasa ojek online (motor).
+	- Mall Taman Anggrek, Central Park, Citraland dibuka pukul 10.00, sehingga karyawan diharuskan datang pukul 08.00 untuk mempersiapkan toko.
+	- Terdapat apartemen di dekat Mall Taman Anggrek dan Mall Central Park.
+	- Mahasiswa Universitas Bina Nusantara masuk hari Sabtu pagi pukul 07.20 dan pulang pada pukul 13.00.
+	- Mahasiswa yang berdomisili di Bogor dan Depok akan kembali ke rumah pada hari Sabtu sepulang kuliah.
+	- Karyawan Metro TV, SCTV, RCTI, dan Kompas Gramedia bertempat tinggal di sekitar tempat kerja dan tidak memiliki kendaraan akan membutuhkan jasa ini pada hari Sabtu pukul 08.00.
+	- Mahasiswa dan karyawan kos di daerah dekat Binus.
+	- Penghuni kos tidak memiliki kendaraan.
+	- Karyawan yang masuk pada hari Sabtu pulang pukul 14.00.
+# Titik yang memiliki probabilitas mendapat penumpang tertinggi
+	1. Daerah yang terdapat banyak tempat kos (Jalan U dan sekitarnya) (07.00-09.00)
+	- Mahasiswa dan karyawan membutuhkan layanan ojek online untuk menuju kampus atau tempat kerja sehingga permintaan pelanggan akan meningkat dan probabilitas mendapatkan penumpang tinggi.
+	- Setelah mengantar penumpang menuju Binus, driver gojek memiliki probabilitas yang tinggi untuk mendapatkan penumpang di daerah Binus karena banyak terdapat tempat kos di dekat Binus.
+	- Setelah mengantar karyawan ke Mall Taman Anggrek atau Mall Central Park, driver gojek memiliki probabilitas yang tinggi untuk mendapatkan penumpang dari apartemen di sekitar kedua mall tersebut.
+	2. Universitas Bina Nusantara (09.00 - 14.00)
+	- Mahasiswa Binus yang telah selesai kuliah pada waktu tersebut akan membutuhkan layanan ojek online untuk kembali menuju tempat kos, menuju stasiun kereta api (untuk pulang ke rumah bagi yang berdomisili di Bogor dan Depok), dan menuju mall untuk bermain atau mencari makan. Hal ini dapat meningkatkan probabilitas driver untuk mendapatkan penumpang dari Binus.
+	- Setelah mengantar penumpang menuju mall, driver memiliki probabilitas yang tinggi untuk mendapat penumpang dari mall (karyawan yang telah selesai bekerja pada hari itu).
+	3. Gedung RCTI (14.00 - 15.00)
+	- Karyawan yang telah selesai bekerja membutuhkan layanan ojek online untuk kembali menuju tempat kos atau menuju stasiun kereta api (untuk pulang ke rumah bagi yang berdomisili di Bogor dan Depok). Hal ini dapat meningkatkan probabilitas driver untuk mendapatkan penumpang.
+	4. Mall Taman Anggrek (14.00-19.00) dan Central Park (14.00 - 20.00)
+	- Driver memiliki probabilitas tinggi untuk mendapatkan penumpang dari pengunjung yang ingin kembali ke tempat tinggal mereka namun tidak membawa kendaraan.
